@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "minecraft:stone"
+      },
+      {
+        "item": "minecraft:stone"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:cobbled_deepslate"
+      }
+    ]
+  }
