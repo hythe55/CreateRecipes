@@ -1,7 +1,6 @@
 {
-	"pack":
-	{
-		"pack_format": 15,
-		"description": "Adds recipes to create."
-	}
+  "pack": {
+    "pack_format": 48,
+    "description": "Adds recipes to Create."
+  }
 }
